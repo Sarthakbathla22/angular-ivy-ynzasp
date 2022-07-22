@@ -1,3 +1,19 @@
-p {
-  font-family: Lato;
+
+#new {
+  width:100% ;
+  font-family: ' sans-serif';
+  border-collapse: collapse;
+}
+#new td ,#new th{
+ border: 1px solid red;
+  margin-left: 50px;
+  padding: 8px;
+}
+#new th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text align: left;
+  background-color: pink;
+
+
 }
